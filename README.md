@@ -1,4 +1,4 @@
-# Personal_Writeups
-All of these are my journey to CTFs, Bug Bounty, or random Penetration Testing. I documented it in Github since I think it has more feature than the other platform, and of course so my Github activity will become more active also.
+# OverTheWire Writeups
+![Alt text](https://github.com/VirshanAkbar/Personal_Writeups/blob/OverTheWire/OverTheWire_banner.jpg)
 
-If you want to see my writeups, you can check in the <ins>**Branch**</ins>, I hope my writeups can explain my way of thinking and problem solving skill.
+This branch is for OverTheWire CTFs writeups, this is pure for my documentation and I really want to share my journey, this is good for my writing skills and just my personal notes 
